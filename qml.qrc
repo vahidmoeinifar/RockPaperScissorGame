@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>paper.png</file>
+        <file>rock.png</file>
+        <file>scissor.png</file>
+        <file>PlayerOne.qml</file>
+        <file>PlayerTwo.qml</file>
+        <file>Status.qml</file>
+    </qresource>
+</RCC>
